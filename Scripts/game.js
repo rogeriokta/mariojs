@@ -1,0 +1,1 @@
+define(["require","exports","./constants","./main","./testlevels","./keys","./HtmlAudioManager"],function(e,n,t,a,i,o,r){$(document).ready(function(){var e=new r(t.audiopath);a.run(i[0],o,e)})});
